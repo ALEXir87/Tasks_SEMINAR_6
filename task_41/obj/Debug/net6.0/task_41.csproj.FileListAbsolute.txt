@@ -1,0 +1,15 @@
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\2.Семинары\3с.Знакомство с языками рограммирования\6\TASKS\task_41\obj\Debug\net6.0\task_41.csproj.AssemblyReference.cache
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\2.Семинары\3с.Знакомство с языками рограммирования\6\TASKS\task_41\obj\Debug\net6.0\task_41.GeneratedMSBuildEditorConfig.editorconfig
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\2.Семинары\3с.Знакомство с языками рограммирования\6\TASKS\task_41\obj\Debug\net6.0\task_41.AssemblyInfoInputs.cache
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\2.Семинары\3с.Знакомство с языками рограммирования\6\TASKS\task_41\obj\Debug\net6.0\task_41.AssemblyInfo.cs
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\2.Семинары\3с.Знакомство с языками рограммирования\6\TASKS\task_41\obj\Debug\net6.0\task_41.csproj.CoreCompileInputs.cache
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\2.Семинары\3с.Знакомство с языками рограммирования\6\TASKS\task_41\bin\Debug\net6.0\task_41.exe
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\2.Семинары\3с.Знакомство с языками рограммирования\6\TASKS\task_41\bin\Debug\net6.0\task_41.deps.json
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\2.Семинары\3с.Знакомство с языками рограммирования\6\TASKS\task_41\bin\Debug\net6.0\task_41.runtimeconfig.json
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\2.Семинары\3с.Знакомство с языками рограммирования\6\TASKS\task_41\bin\Debug\net6.0\task_41.dll
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\2.Семинары\3с.Знакомство с языками рограммирования\6\TASKS\task_41\bin\Debug\net6.0\task_41.pdb
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\2.Семинары\3с.Знакомство с языками рограммирования\6\TASKS\task_41\obj\Debug\net6.0\task_41.dll
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\2.Семинары\3с.Знакомство с языками рограммирования\6\TASKS\task_41\obj\Debug\net6.0\refint\task_41.dll
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\2.Семинары\3с.Знакомство с языками рограммирования\6\TASKS\task_41\obj\Debug\net6.0\task_41.pdb
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\2.Семинары\3с.Знакомство с языками рограммирования\6\TASKS\task_41\obj\Debug\net6.0\task_41.genruntimeconfig.cache
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\2.Семинары\3с.Знакомство с языками рограммирования\6\TASKS\task_41\obj\Debug\net6.0\ref\task_41.dll
